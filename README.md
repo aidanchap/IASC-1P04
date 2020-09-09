@@ -1,6 +1,6 @@
 # IASC-1P04 | Aidan Chaplin
 
-Welcome to the webside for my twine game created for the course IASC 1P04 at Brock U
+Welcome to the webside for my twine game created for the course IASC 1P04 at Brock U.
 
 ## Playtest
 
