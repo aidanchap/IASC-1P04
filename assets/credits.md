@@ -11,3 +11,11 @@ Attribution (3.0)
 
 ---
 
+"Ghost Town Liberation"
+by Martijn de Boer (NiGiD)
+
+2017 - Licensed under
+Creative Commons
+Attribution Noncommercial (3.0)
+
+---
