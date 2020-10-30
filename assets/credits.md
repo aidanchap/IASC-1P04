@@ -1,3 +1,7 @@
+Game Created By Aidan Chaplin
+
+---
+
 "Heart of the Derelict"
 by PorchCat
 
@@ -21,5 +25,13 @@ Attribution Noncommercial (3.0)
 ---
 
 "House" by oatsy40 is licensed under CC BY 2.0
+
+---
+
+"Tizingal Rental Ben1" by Young in Panama is licensed under CC BY 2.0
+
+---
+
+"chef" by micmol  is licensed under CC BY-NC-SA 2.0
 
 ---
