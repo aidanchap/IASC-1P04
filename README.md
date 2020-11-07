@@ -4,7 +4,7 @@ Welcome to the webside for my twine game created for the course IASC 1P04 at Bro
 
 ## Playtest
 
-Playtest my game [here]
+Playtest my game [here](playtest/playtest)
 
 ## Prototype
 
