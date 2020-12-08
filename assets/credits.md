@@ -28,6 +28,12 @@ Attribution Noncommercial (3.0)
 
 ---
 
+"Nikolai Kornilievich Bodarevsky (1850-1921), 'Portrait of a lady'" by sofi01 is licensed under CC BY-NC 2.0
+
+---
+
+---
+
 "Tizingal Rental Ben1" by Young in Panama is licensed under CC BY 2.0
 
 ---
