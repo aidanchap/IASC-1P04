@@ -7,7 +7,7 @@ Murder at Midnight Manor is a short mystery game where players enter a manor as 
 
 ## Play Now
 
-Play Black Hole Station [here](final_build/MurderAtMidnightManor_FinalBuild.html)
+Play Murder at Midnight Manor [here](final_build/MurderAtMidnightManor_FinalBuild.html)
 
 ### Playtest
 
