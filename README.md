@@ -5,7 +5,7 @@
 
 Murder at Midnight Manor is a short mystery game where players enter a manor as a detective the day after a murder happened here by one of the three residents. In the game, players will explore the manor, and question the suspects all while looking for clues as to who committed the crime. Inspired by the Murder at Moonveil Manor D&D module, and other classic murder mystery stories. Murder at Midnight Manor conveys the idea that not all decisions have a clear outcome.
 
-## Play now
+## Play Now
 
 Play Black Hole Station [here](final_build/MurderAtMidnightManor_FinalBuild.html)
 
